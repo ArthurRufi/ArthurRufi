@@ -8,15 +8,15 @@ I'm a passionate backend systems developer, initially diving into the world of P
 
 ## Project Showcase
 
-### 1. [Estoque](link-to-estoque-repo)
+### 1. [Estoque](https://github.com/ArthurRufi/Estoque)
 
 - Description: A web system designed for managing specific internal processes within a company.
 
-### 2. [gestaodefutebol](link-to-gestaodefutebol-repo)
+### 2. [gestaodefutebol](https://github.com/ArthurRufi/gestaodefutebol)
 
 - Description: An original project born out of an idea during a friendly football match. Currently on hold (as of December 2023), but I plan to revive it in the future.
 
-### 3. [projetobetsgestro](link-to-projetobetsgestro-repo)
+### 3. [projetobetsgestro](https://github.com/ArthurRufi/projetobetsgestor)
 
 - Description: An idea for managing sports bets. Note: This project will be deleted soon due to moral and ethical reasons.
 
