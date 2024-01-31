@@ -12,7 +12,7 @@ I'm a passionate backend systems developer, initially diving into the world of P
 
 - Description: A web system designed for managing specific internal processes within a company.
 
-### 2. [gestaodefutebol](https://github.com/ArthurRufi/gestaodefutebol)
+### 2. [gestaodefutebol](https://github.com/ArthurRufi/gestaofutebol)
 
 - Description: An original project born out of an idea during a friendly football match. Currently on hold (as of December 2023), but I plan to revive it in the future.
 
