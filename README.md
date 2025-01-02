@@ -1,6 +1,6 @@
 # Welcome to Arthur Rufino's GitHub Profile! 🚀
 
-Hello! 👋 I'm Arthur Alves Rufino Santana, but you can simply call me Arthur Rufino. Welcome to a glimpse of my digital world.
+Hello! 👋 I'm Arthur Rufino, but you can simply call me Arthur Rufino. Welcome to a glimpse of my digital world.
 
 ## About Me
 
