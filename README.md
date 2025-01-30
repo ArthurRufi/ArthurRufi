@@ -8,7 +8,7 @@ I'm a passionate backend systems developer, initially diving into the world of P
 
 ## Project Showcase
 
-### 1. [Estoque](https://github.com/ArthurRufi/Estoque)
+### 1. [Gestáo Financeira](https://github.com/ArthurRufi/GestaoFinancas.git)
 
 - Description: A web system designed for managing specific internal processes within a company.
 
