@@ -1,34 +1,15 @@
-# Welcome to Arthur Rufino's GitHub Profile! 🚀
+Bem-vindo ao GitHub de Arthur Rufino! 🚀
+Olá! 👋 Eu sou o Arthur Rufino, mas pode me chamar só de Arthur mesmo. Seja bem-vindo a um pedacinho do meu mundo digital.
 
-Hello! 👋 I'm Arthur Rufino, but you can simply call me Arthur Rufino. Welcome to a glimpse of my digital world.
+Sobre Mim
+Sou um desenvolvedor apaixonado por sistemas backend, comecei minha jornada com Python e Django. Atualmente, estou explorando Flask e tenho planos de estudar C# em breve, com base em várias recomendações que recebi.
 
-## About Me
+Projetos em Destaque
+1. Gestão Financeira
+Descrição: Sistema web desenvolvido para gerenciar processos internos específicos de uma empresa.
 
-I'm a passionate backend systems developer, initially diving into the world of Python and Django. Currently exploring Flask and with future plans to delve into the realm of C# based on several recommendations.
+2. Gestão de Futebol
+Descrição: Projeto autoral que surgiu durante uma resenha jogando futebol. Atualmente está pausado (desde dezembro de 2023), mas pretendo retomá-lo futuramente.
 
-## Project Showcase
-
-### 1. [Gestáo Financeira](https://github.com/ArthurRufi/GestaoFinancas.git)
-
-- Description: A web system designed for managing specific internal processes within a company.
-
-### 2. [gestaodefutebol](https://github.com/ArthurRufi/gestaofutebol)
-
-- Description: An original project born out of an idea during a friendly football match. Currently on hold (as of December 2023), but I plan to revive it in the future.
-
-### 3. [projetobetsgestro](https://github.com/ArthurRufi/projetobetsgestor)
-
-- Description: An idea for managing sports bets. Note: This project will be deleted soon due to moral and ethical reasons.
-
-## What's Next?
-
-I have more exciting projects in the pipeline:
-
-- **MathMathpy**: Stay tuned for mathematical wonders!
-- **SignLanguageAI**: Focusing on languages of signs and artificial intelligence. Version 1.1 coming soon.
-
-## Feedback
-
-Feel free to explore the projects, provide feedback, or connect with me. I appreciate constructive criticism; it helps me grow as a developer.
-
-Thank you for visiting! 🌟
+3. Projeto Bets Gestor
+Descrição: Ideia de um sistema para gestão de apostas esportivas. Observação: este projeto será removido em breve por motivos morais e éticos.
