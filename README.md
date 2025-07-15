@@ -13,15 +13,15 @@ Minha formação está composta em Bacharelado em Engenharia da Computação e m
           
 
 # Experiencia atual
-## Atualmente sou TechLead em um projeto voluntario chamado Animalesko
-Coordeno as equipes, organizo as entregas de demandas, faço a comunicação das equipes de Backend, FrontEnd, QA, Segurança, DevOps e Design.
+## Atualmente sou Desenvolvedor Freelancer.
+Auxilio as equipes que precisam de serviços, organizo ecossistemas empresariais com pouco uso da tecnologia e desenvolvendo minha empresa que vai ajudar a sua!
 
 
 Projetos em Destaque
 1. Gestão Financeira
 Descrição: Sistema web desenvolvido para gerenciar processos internos específicos de uma empresa.
 
-2. Glossario de Libras
+2. ERP Online de baixo custo para pequenos negocios
 Descrição: Projeto autoral que surgiu durante uma resenha jogando futebol. Atualmente está pausado (desde dezembro de 2023), mas pretendo retomá-lo futuramente.
 
 3. Projeto Gestão de Condominios.
